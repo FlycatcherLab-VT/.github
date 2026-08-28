@@ -2,4 +2,4 @@ Welcome to the Github page of the Flycatcher lab at Virginia Tech, led by Valent
 
 For more information on our research and team, visit our [lab website](https://flycatcherlab-vt.github.io/flycatcher_lab_page/). 
 
-This Github page is where we host our scripts and pipelines used in our publications. for raw data, please visit our figshare.
+This Github page is where we host our scripts and pipelines used in our publications. For raw data, please visit our figshare.
